@@ -1,0 +1,54 @@
+{
+  "catalog": [
+    {
+      "id": 1,
+      "imageURL": "http://placehold.it/150/1b21a0/ffffff",
+      "name": "LG TV",
+      "type": "",
+      "price": 250,
+      "currency": "$",
+        "category":"electronic",
+        "sub":"tv"
+    },
+    {
+      "id": 2,
+      "imageURL": "http://placehold.it/150/bc4125/ffffff",
+      "name": "Samsung TV",
+      "type": "",
+      "price": 350,
+      "currency": "$",
+        "category":"electronic",
+        "sub":"tv"
+    },
+    {
+      "id": 3,
+      "imageURL": "http://placehold.it/150/5abc25/ffffff",
+      "name": "iphone X",
+      "type": "",
+      "price": 200,
+      "currency": "$",
+        "category":"electronic",
+        "sub":"mobile"
+    },
+    {
+      "id": 4,
+      "imageURL": "http://placehold.it/150/ebf742/ffffff",
+      "name": "product D",
+      "type": "",
+      "price": 500,
+      "currency": "$",
+         "category":"shoes",
+        "sub":"floater"
+    },
+    {
+      "id": 5,
+      "imageURL": "http://placehold.it/150/d121c8/ffffff",
+      "name": "product D",
+      "type": "",
+      "price": 100,
+      "currency": "$",
+         "category":"shoes",
+        "sub":"casual"
+    }
+  ]
+}
